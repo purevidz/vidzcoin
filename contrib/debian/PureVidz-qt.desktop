@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PureVidz
+Comment=PureVidz P2P Cryptocurrency
+Comment[fr]=PureVidz, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PureVidz, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/PureVidz-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/PureVidz;
+Categories=Office;

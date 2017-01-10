@@ -1,0 +1,11 @@
+[Protocol]
+exec=PureVidz-qt '%u'
+protocol=PureVidz
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

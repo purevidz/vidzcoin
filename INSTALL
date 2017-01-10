@@ -1,0 +1,9 @@
+Building PureVidz
+
+See doc/readme-qt.rst for instructions on building PureVidz QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PureVidz.
+
+See doc/build-*.txt for instructions on building PureVidzd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PureVidz.
